@@ -1,0 +1,46 @@
+[{
+  "name": "Apple MacBook Pro 16",
+  "data": {
+    "year": 2019,
+    "price": 1849.99
+  }
+}, {
+  "name": "IPAD mini",
+  "data": {
+    "year": 2020,
+    "price": 500
+  }
+}, {
+  "name": "Laptop",
+  "data": {
+    "year": 2024,
+    "price": 2000.99
+  }
+}, {
+  "name": "Play Station 5",
+  "data": {
+    "year": 2020,
+    "price": 600.99
+  }
+}, {
+  "name": "Macbook Air M2",
+  "data": {
+    "year": 2022,
+    "price": 1600.99
+  }
+}, {
+  "name": "Apple iPhone 12 Mini, 256GB, Blue",
+  "data": null
+}, {
+  "name": "Samsung Galaxy Z Fold2",
+  "data": {
+    "price": 689.99,
+    "color": "Brown"
+  }
+}, {
+  "name": "Apple AirPods",
+  "data": {
+    "generation": "3rd",
+    "price": 120
+  }
+}]
