@@ -16,5 +16,5 @@ repositories {
 }
 
 dependencies {
-    gatling 'com.networknt:json-schema-validator:1.4.3'
+    gatling 'com.networknt:json-schema-validator:1.5.2'
 }
